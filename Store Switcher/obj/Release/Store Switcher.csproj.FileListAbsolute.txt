@@ -1,0 +1,17 @@
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\bin\Release\Store Switcher.exe.config
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\bin\Release\ConnectionsDatabase.mdf
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\bin\Release\ConnectionsDatabase_log.ldf
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\bin\Release\Store Switcher.exe
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\bin\Release\Store Switcher.pdb
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Release\Store_Switcher.ConnectionSettings.resources
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Release\Store_Switcher.Form1.resources
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Release\Store_Switcher.Properties.Resources.resources
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Release\Store Switcher.csproj.GenerateResource.Cache
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Release\Store Switcher.exe
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Release\Store Switcher.pdb
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\bin\Release\Store Switcher.exe.manifest
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\bin\Release\Store Switcher.application
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Release\Store Switcher.TrustInfo.xml
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Release\Store Switcher.exe.manifest
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Release\Store Switcher.application
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Release\Store Switcher.csprojResolveAssemblyReference.cache

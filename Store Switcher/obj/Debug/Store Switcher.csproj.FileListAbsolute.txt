@@ -1,0 +1,40 @@
+C:\Users\Dicks Pawn\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\bin\Debug\Store Switcher.exe.config
+C:\Users\Dicks Pawn\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Debug\Store Switcher.exe
+C:\Users\Dicks Pawn\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Debug\Store Switcher.pdb
+C:\Users\Dicks Pawn\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\bin\Debug\Store Switcher.exe
+C:\Users\Dicks Pawn\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\bin\Debug\Store Switcher.pdb
+C:\Users\Dicks Pawn\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Debug\Store Switcher.csprojResolveAssemblyReference.cache
+C:\Users\Dicks Pawn\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Debug\Store_Switcher.Form1.resources
+C:\Users\Dicks Pawn\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Debug\Store_Switcher.Properties.Resources.resources
+C:\Users\Dicks Pawn\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Debug\Store Switcher.csproj.GenerateResource.Cache
+C:\Users\Dicks Pawn\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Debug\Store_Switcher.ConnectionSettings.resources
+C:\Users\Dicks Pawn\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\bin\Debug\ConnectionsDatabase.mdf
+C:\Users\Dicks Pawn\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\bin\Debug\ConnectionsDatabase_log.ldf
+F:\Store Switcher\Store Switcher\bin\Debug\Store Switcher.exe.config
+F:\Store Switcher\Store Switcher\obj\Debug\Store Switcher.exe
+F:\Store Switcher\Store Switcher\obj\Debug\Store Switcher.pdb
+F:\Store Switcher\Store Switcher\bin\Debug\ConnectionsDatabase.mdf
+F:\Store Switcher\Store Switcher\bin\Debug\ConnectionsDatabase_log.ldf
+F:\Store Switcher\Store Switcher\bin\Debug\Store Switcher.exe
+F:\Store Switcher\Store Switcher\bin\Debug\Store Switcher.pdb
+F:\Store Switcher\Store Switcher\obj\Debug\Store Switcher.csprojResolveAssemblyReference.cache
+F:\Store Switcher\Store Switcher\obj\Debug\Store_Switcher.ConnectionSettings.resources
+F:\Store Switcher\Store Switcher\obj\Debug\Store_Switcher.Form1.resources
+F:\Store Switcher\Store Switcher\obj\Debug\Store_Switcher.Properties.Resources.resources
+F:\Store Switcher\Store Switcher\obj\Debug\Store Switcher.csproj.GenerateResource.Cache
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\bin\Debug\ConnectionsDatabase.mdf
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\bin\Debug\ConnectionsDatabase_log.ldf
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\bin\Debug\Store Switcher.exe.config
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\bin\Debug\Store Switcher.exe
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\bin\Debug\Store Switcher.pdb
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Debug\Store_Switcher.ConnectionSettings.resources
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Debug\Store_Switcher.Form1.resources
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Debug\Store_Switcher.Properties.Resources.resources
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Debug\Store Switcher.csproj.GenerateResource.Cache
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Debug\Store Switcher.exe
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Debug\Store Switcher.pdb
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\bin\Debug\Store Switcher.exe.manifest
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\bin\Debug\Store Switcher.application
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Debug\Store Switcher.TrustInfo.xml
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Debug\Store Switcher.exe.manifest
+C:\Users\-\Documents\Visual Studio 2015\Projects\Store Switcher\Store Switcher\obj\Debug\Store Switcher.application
